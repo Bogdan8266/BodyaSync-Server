@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+telethon
+pydantic
+Pillow
+pillow-heif
+ffmpeg-python
+hachoir
+requests
+gradio_client
+python-multipart
