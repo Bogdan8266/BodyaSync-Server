@@ -9,3 +9,6 @@ hachoir
 requests
 gradio_client
 python-multipart
+python-dotenv
+pydantic
+pillow-heif
