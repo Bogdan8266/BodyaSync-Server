@@ -11,7 +11,7 @@
 ![AI](https://img.shields.io/badge/AI-OLLAMA_%2B_HUGGINGFACE-purple?style=for-the-badge&logo=openai)
 
 <h3>The Brain. The Muscle. The Vault.</h3>
-<p>This is the backend beast that powers the BodyaSync-Compose and BodyaGram app.</p>
+<p>This is the backend beast that powers the <a href="https://github.com/Bogdan8266/BodyaSync-Compose">BodyaSync-Compose</a> and BodyaGram app.</p>
 
 </div>
 
