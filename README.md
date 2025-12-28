@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# ☢️ TURBO CLOUD SERVER (The Engine Room)
+# ☢️ BodyaSync-Server (The Engine Room)
 
 <!-- BADGES -->
 ![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-green?style=for-the-badge&logo=server)
