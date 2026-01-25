@@ -11,7 +11,13 @@
 ![AI](https://img.shields.io/badge/AI-OLLAMA_%2B_HUGGINGFACE-purple?style=for-the-badge&logo=openai)
 
 <h3>The Brain. The Muscle. The Vault.</h3>
-<p>This is the backend beast that powers the <a href="https://github.com/Bogdan8266/BodyaSync-Compose">BodyaSync-Compose</a> and <a href="https://github.com/Bogdan8266/BodyaSync-Gallery"><s>BodyaSync-Gallery(Flutter)</s></a>. and BodyaGram app.</p>
+<p>This is the backend beast that powers the <p>
+This is the tactical client that completes the ecosystem. It connects seamlessly with 
+<a href="https://github.com/Bogdan8266/BodyaSync-Compose">BodyaSync-Compose</a>, replaces the fallen 
+<a href="https://github.com/Bogdan8266/BodyaSync-Server">BodyaSync-Server</a>, Backend
+<a href="https://github.com/Bogdan8266/BodyaSync-Gallery"><s>BodyaSync-Gallery(Flutter)</s></a>, 
+and is the frontend for the <b><a href="https://github.com/Bogdan8266/BodyaGram">BodyaGram App</a></b>.
+</p>
 
 </div>
 
